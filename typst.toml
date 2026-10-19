@@ -9,7 +9,7 @@ description = "A clean, editorial-grade layout for short stories and literary fi
 keywords = ["short story", "fiction", "literature", "book", "manuscript", "typography"]
 categories = ["book"]
 compiler = "0.15.1"
-exclude = ["guide.typ", ".gitignore"]
+exclude = ["guide.typ", ".gitignore", ".gitattributes"]
 
 [template]
 path = "template"
